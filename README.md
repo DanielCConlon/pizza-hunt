@@ -1,23 +1,23 @@
 # pizza-hunt
 
-Let's take stock of what you did by reviewing the tasks you completed:
+- Github URL: https://github.com/DanielCConlon/pizza-hunt
+- Heroku URL: https://secure-springs-96210.herokuapp.com/
 
-Added validation to the Pizza model.
+## Table-of-Contents
 
-Added validation to the Reply model.
+- [Description](#description)
+- [Usage](#usage)
+- [Application](#application)
 
-Deployed the application to Heroku.
+## [Description](#description)
 
-Used MongDB Atlas to host the database remotely.
+Pizza-hunt is a social media app where users can post their own pizza recipes, add comments to other recipes, and create threads within those comments. This application was made
+following steps of a course module on MongoDB, MOngoose, MongoDB Atlas, and heroku. This app was created by adding back-end functionality to pre-exisiting front end code.
 
-You can add those new skills to the many other things you did in this module, including the following:
+## [Usage](#table-of-contents)
 
-Created models with Mongoose.
+When you first land on the pizza-hunt page you will see pizza recipes that have already been created. You can create your own pizza by clicking the create new pizza button or click the `see the discussion` button to see what others are saying about a recipe. While you are in the `see the discussion` page you can leave your own comments!
 
-Used virtuals to extend the models' functionality.
+## [Application](#table-of-contents)
 
-Created subschemas and subdocuments with Mongoose.
-
-Used IndexedDB to add offline functionality.
-
-Validated models to normalize data.
+![Website image](./public/assets/images/Capture.PNG)
