@@ -1,7 +1,8 @@
 # pizza-hunt
 
 - Github URL: https://github.com/DanielCConlon/pizza-hunt
-- Heroku URL: https://secure-springs-96210.herokuapp.com/
+- Heroku URL: Moving heroku deployment
+<!-- https://secure-springs-96210.herokuapp.com/ -->
 
 # Goal
 
